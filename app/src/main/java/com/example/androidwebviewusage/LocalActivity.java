@@ -39,7 +39,7 @@ public class LocalActivity extends AppCompatActivity {
 
         mWebView.setWebChromeClient(new WebChromeClient());
 
-        mWebView.addJavascriptInterface(new LocalJS(this), "winway");
+        mWebView.addJavascriptInterface(new CalledFromJSFunction(this), "winway");
     }
 
     public void onClick(View view) {

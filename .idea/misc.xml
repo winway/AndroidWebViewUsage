@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/AndroidWebViewUsage/app/src/main/res/layout/activity_image_slide.xml" value="0.22826086956521738" />
         <entry key="..\:/AndroidStudioProjects/AndroidWebViewUsage/app/src/main/res/layout/activity_local.xml" value="0.22826086956521738" />
         <entry key="..\:/AndroidStudioProjects/AndroidWebViewUsage/app/src/main/res/layout/activity_main.xml" value="0.12132725430597771" />
+        <entry key="..\:/AndroidStudioProjects/AndroidWebViewUsage/app/src/main/res/layout/activity_remote.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>

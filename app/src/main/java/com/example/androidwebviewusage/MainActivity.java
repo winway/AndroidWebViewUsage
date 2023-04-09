@@ -20,6 +20,9 @@ public class MainActivity extends AppCompatActivity {
             case R.id.main_local_btn:
                 intent.setClass(this, LocalActivity.class);
                 break;
+            case R.id.main_remote_btn:
+                intent.setClass(this, RemoteActivity.class);
+                break;
         }
         startActivity(intent);
     }
